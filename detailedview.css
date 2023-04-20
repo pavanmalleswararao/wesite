@@ -1,0 +1,31 @@
+.detailed-view-heading{
+    color: white;
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 24px;
+}
+.detailed-view-bg-container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNUxhLCvQpHZ2YMeFSGO4B5fUCN5zluDIJ7GrsShlApOAi7dzkejSj8KYH4idZoUa-mw&usqp=CAU");
+    background-size: cover;
+    height: 100vh;
+}
+.detailed-view-card-container{
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+}
+.detailed-view-card-heading{
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+    padding: 15px;
+}
+.detailed-view-card-description{
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #6c6b70;
+    padding: 15px;
+}
