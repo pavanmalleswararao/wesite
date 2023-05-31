@@ -1,0 +1,41 @@
+.background-top-section{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/02/26/17/77/1000_F_226177719_CoYfU2JuJMQSc99cTPMIVFO4aZ7lSdfV.jpg");
+    background-size: cover;
+    height: 30vh;
+}
+.top-section-heading{
+    color: white;
+    font-family: "caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 30px;
+}
+.bottom-section{
+    background-color: #e6f6ff;
+    padding: 20px; 
+    text-align: center;
+}
+.card-item{
+    background-color: wight;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+.card-image{
+    width: 64px;
+    height: 64px;
+}
+.card-heading{
+    font-size: 16px;
+    font-family: "Robot";
+    color: #616e7c;
+    padding: 5px;
+}
+.card-price{
+    color: #323f4b;
+    font-family: "Robot";
+    font-weight: bold;
+    font-size: 16px;
+}
